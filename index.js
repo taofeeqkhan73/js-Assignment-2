@@ -102,4 +102,4 @@ function Triangle_Check(i, j, k) {
         return "right";
     }
 }
-console.log(Triangle_Check(60, 100, 20));  // Output: obtuse
+console.log(Triangle_Check(60, 100, 20)); 
